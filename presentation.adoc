@@ -1,0 +1,42 @@
+= 🧑‍💻 Télétravail Asynchrone 🏠
+:source-highlighter: highlightjs
+:revealjs_theme: white
+:revealjs_history: true
+:revealjs_plugin_pdf: enabled
+:revealjs_plugin_highlight: enabled
+:revealjs_progress: true
+:customcss: custom.css
+:data-uri:
+:icons: font
+
+
+++++
+<script type="text/javascript">
+window.addEventListener("load", function() {
+
+revealDiv = document.querySelector("body div.reveal")
+footer = document.getElementById("custom-footer");
+revealDiv.appendChild(footer);
+
+} );
+</script>
+<div id="custom-footer" class="footer">
+@binout
+</div>
+++++
+
+
+== Benoit Prioux
+
+image::images/{conf}-background.png[background, size=cover]
+
+icon:twitter[] icon:github[] binout 
+
+image::images/alan-eng.jpeg[]
+
+
+== Merci 🙏
+
+image::images/{conf}-background.png[background, size=cover]
+
+https://binout.github.io/async-remote-work/

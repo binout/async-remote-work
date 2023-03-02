@@ -1,0 +1,18 @@
+= Asynchronous Remote Work
+
+Slides for conference `Devoxx France 2023`
+
+* https://binout.github.io/async-remote-work/
+
+== Tools
+
+Based on https://github.com/asciidoctor/asciidoctor-reveal.js
+
+Pre-requisites:: npm
+
+.Generate HTML slides
+[source]
+----
+npm install
+npm run build
+----
