@@ -16,3 +16,7 @@ Pre-requisites:: npm
 npm install
 npm run build
 ----
+
+== Brainstorming
+
+https://whimsical.com/devoxx-teletravail-asynchrone-B9MndtNFgKbiQu8vud5KEC
