@@ -34,6 +34,75 @@ icon:twitter[] icon:github[] binout
 
 image::images/alan-eng.jpeg[]
 
+== 2 ans après 
+
+* Sur site -> 100% télétravail 
+* Beaucoup de réunions -> pas de réunions 
+* Culture de l'oral -> Culture de l'écrit 
+
+== Asynchrone ?
+
+* Communication
+* Processus de décision 
+* Autonomie 
+
+== Communication 
+
+* Gestion des notifications 
+* Public 
+
+== Outil: Slack
+
+* pas de channel prive
+* pas de message prive
+* regles de nommages (announcement)
+
+== Automation Slack
+
+* Daily 
+* Bot pour le planning OnCall
+
+== Processus de décision 
+
+* Reunions: ROI?
+* Préparation?
+* Efficacité?
+
+== Outil : Github 
+
+* Issue
+* Proposal, Timeline, Ping participants 
+* Maitrise du temps
+
+== Autonomie
+
+* Documentation
+* Pit of success
+
+== Outils : Notion
+
+* Source de vérité 
+* Tout est publique
+
+
+== Outils : Code
+
+* DX
+* Linter
+* Boring technologie
+
+
+== Bénéfices
+
+* Flexible work
+* Responsabilité 
+
+
+== Disclaimer
+
+* Pas pour tout le monde
+* Besoin d'initiatives pour construire un lien sociale
+
 
 == Merci 🙏
 
