@@ -1,4 +1,4 @@
-= 🧑‍💻 Télétravail Asynchrone 🏠
+= 🏠 Télétravail Asynchrone 🧑‍💻 
 :source-highlighter: highlightjs
 :revealjs_theme: white
 :revealjs_history: true
@@ -34,19 +34,28 @@ icon:twitter[] icon:github[] binout
 
 image::images/alan-eng.jpeg[]
 
-== 2 ans après 
+== 💚 Alan, partenaire santé
 
-* Sur site -> 100% télétravail 
-* Beaucoup de réunions -> pas de réunions 
-* Culture de l'oral -> Culture de l'écrit 
+TODO
 
-== Asynchrone ?
+== Culture d'entreprise Alan
 
-* Communication
-* Processus de décision 
-* Autonomie 
+* Culture de l'écrit
+* Responsabilité partagée
+* Pas de réunions
+* Autonomie
+* Travail flexible 
 
-== Communication 
+https://medium.com/alan
+
+== 🤖 Télétravail Asynchrone par ChatGPT
+
+---
+Le télétravail asynchrone est une **pratique de travail à distance** qui permet aux travailleurs de travailler de manière **autonome** avec des outils de **communication asynchrones**, offrant plus de **flexibilité** et de **productivité**, mais qui peut également présenter des **défis** de communication et de collaboration.
+
+---
+
+== Communication Asynchrone
 
 * Gestion des notifications 
 * Public 
@@ -55,12 +64,32 @@ image::images/alan-eng.jpeg[]
 
 * pas de channel prive
 * pas de message prive
+* formatage
 * regles de nommages (announcement)
 
-== Automation Slack
+== Exemples: Daily 
 
-* Daily 
-* Bot pour le planning OnCall
+TODO
+
+== Exemples: HPFO 
+
+TODO
+
+== Exemples: Thread pour soi-même
+
+TODO
+
+== Exemples: Après 1-1
+
+TODO
+
+== Exemples: #team_retro
+
+TODO
+
+== Exemples: #team_praise 
+
+TODO
 
 == Processus de décision 
 
@@ -68,22 +97,30 @@ image::images/alan-eng.jpeg[]
 * Préparation?
 * Efficacité?
 
+== Pas de réunions? 
+
+https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
+
 == Outil : Github 
 
 * Issue
 * Proposal, Timeline, Ping participants 
 * Maitrise du temps
 
-== Autonomie
-
-* Documentation
-* Pit of success
-
 == Outils : Notion
 
 * Source de vérité 
 * Tout est publique
 
+== Autonomie
+
+* Documentation
+* Pit of success
+
+== Automation Slack
+
+* Bot pour le planning/welcome OnCall
+* Bot pour tâche récurrente
 
 == Outils : Code
 
@@ -96,6 +133,7 @@ image::images/alan-eng.jpeg[]
 
 * Flexible work
 * Responsabilité 
+* Implication
 
 
 == Disclaimer
