@@ -34,21 +34,35 @@ icon:twitter[] icon:github[] binout
 
 image::images/alan-eng.jpeg[]
 
-== 💚 Alan, partenaire santé
+== 💜 Alan, partenaire santé
 
-TODO
+image::images/{conf}-background.png[background, size=cover]
 
-== Culture d'entreprise Alan
 
-* Culture de l'écrit
-* Responsabilité partagée
-* Pas de réunions
-* Autonomie
-* Travail flexible 
+image:images/Alan-1.png[width=25%]
+image:images/Alan-Mascot.png[width=30%]
+image:images/Alan-2.png[width=25%]
 
-https://medium.com/alan
+== 🌱 Culture d'entreprise Alan
+
+image::images/{conf}-background.png[background, size=cover]
+
+✍️ Culture de l'écrit
+
+👑 Responsabilité partagée
+
+🤩 Pas de réunions, pas de managers
+
+🚀 Autonomie
+
+🧑‍💻 Travail flexible 
+
+➡️ https://medium.com/alan
 
 == 🤖 Télétravail Asynchrone par ChatGPT
+
+image::images/{conf}-background.png[background, size=cover]
+
 
 ---
 Le télétravail asynchrone est une **pratique de travail à distance** qui permet aux travailleurs de travailler de manière **autonome** avec des outils de **communication asynchrones**, offrant plus de **flexibilité** et de **productivité**, mais qui peut également présenter des **défis** de communication et de collaboration.
@@ -57,10 +71,29 @@ Le télétravail asynchrone est une **pratique de travail à distance** qui perm
 
 == Communication Asynchrone
 
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/communication.png[]
+
+== Enjeux
+
+image::images/{conf}-background.png[background, size=cover]
+
+* Transmission de l'information 
+* Context switching 
 * Gestion des notifications 
+
+== Principe
+
+image::images/{conf}-background.png[background, size=cover]
+
 * Public 
+* Ecrite
 
 == Outil: Slack
+
+image::images/{conf}-background.png[background, size=cover]
+
 
 * pas de channel prive
 * pas de message prive
@@ -69,29 +102,53 @@ Le télétravail asynchrone est une **pratique de travail à distance** qui perm
 
 == Exemples: Daily 
 
+image::images/{conf}-background.png[background, size=cover]
+
+
 TODO
 
 == Exemples: HPFO 
+
+image::images/{conf}-background.png[background, size=cover]
+
 
 TODO
 
 == Exemples: Thread pour soi-même
 
+image::images/{conf}-background.png[background, size=cover]
+
+
 TODO
 
 == Exemples: Après 1-1
+
+image::images/{conf}-background.png[background, size=cover]
+
 
 TODO
 
 == Exemples: #team_retro
 
+image::images/{conf}-background.png[background, size=cover]
+
+
 TODO
 
 == Exemples: #team_praise 
 
+image::images/{conf}-background.png[background, size=cover]
+
+
 TODO
 
-== Processus de décision 
+== 🧑‍⚖️ Processus de décision 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/visual_no_meeting_policy.png[]
+
+== 🤔 Retour sur investissement ?
 
 * Reunions: ROI?
 * Préparation?
@@ -99,9 +156,15 @@ TODO
 
 == Pas de réunions? 
 
+image::images/{conf}-background.png[background, size=cover]
+
+
 https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
 == Outil : Github 
+
+image::images/{conf}-background.png[background, size=cover]
+
 
 * Issue
 * Proposal, Timeline, Ping participants 
@@ -109,20 +172,32 @@ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
 == Outils : Notion
 
+image::images/{conf}-background.png[background, size=cover]
+
 * Source de vérité 
 * Tout est publique
 
-== Autonomie
+== 🚀 Autonomie
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/autonomie.png[width=60%]
+
+== 🕳️🪜 The Pit of Success
 
 * Documentation
 * Pit of success
 
 == Automation Slack
 
+image::images/{conf}-background.png[background, size=cover]
+
 * Bot pour le planning/welcome OnCall
 * Bot pour tâche récurrente
 
 == Outils : Code
+
+image::images/{conf}-background.png[background, size=cover]
 
 * DX
 * Linter
@@ -131,12 +206,16 @@ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
 == Bénéfices
 
+image::images/{conf}-background.png[background, size=cover]
+
 * Flexible work
 * Responsabilité 
 * Implication
 
 
 == Disclaimer
+
+image::images/{conf}-background.png[background, size=cover]
 
 * Pas pour tout le monde
 * Besoin d'initiatives pour construire un lien sociale
