@@ -69,36 +69,48 @@ Le télétravail asynchrone est une **pratique de travail à distance** qui perm
 
 ---
 
-== Communication Asynchrone
+== 🗣️ Communication Asynchrone
 
 image::images/{conf}-background.png[background, size=cover]
 
 image::images/communication.png[]
 
-== Enjeux
+== 🤔 Enjeux
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Transmission de l'information 
-* Context switching 
-* Gestion des notifications 
+* 🤝 Transmission de l'information 
+* 🧑‍💻 Flexibilité et autonomie
+* ⁉️ Gestion des notifications 
+* 🙉 Context switching
 
-== Principe
-
-image::images/{conf}-background.png[background, size=cover]
-
-* Public 
-* Ecrite
-
-== Outil: Slack
+== 💚 Communication chez Alan
 
 image::images/{conf}-background.png[background, size=cover]
 
+* ✍️ Tout est écrit
+* 🗣️ Tout est publique
 
-* pas de channel prive
-* pas de message prive
-* formatage
-* regles de nommages (announcement)
+== Outil: Slack public
+
+image::images/{conf}-background.png[background, size=cover]
+
+* Pas de channel privé
+* Pas de message privé
+
+== Outil: Slack normé
+
+image::images/{conf}-background.png[background, size=cover]
+
+* 👮‍♀️ Règles de nommage `#crew_XXX`, `#team_XXX`, `#announcement`
+* 🧵 Utilisation des threads 
+
+== Outil: Slack formaté
+
+image::images/{conf}-background.png[background, size=cover]
+
+* 📖 Format des messages: Titre, Contexte, Questions, Actions
+* 🔔 Ping des bonnes personnes
 
 == Exemples: Daily 
 
@@ -146,18 +158,23 @@ TODO
 
 image::images/{conf}-background.png[background, size=cover]
 
+image::images/decision.png[width=80%]
+
+== 🤔 La réunion synchrone
+
 image::images/visual_no_meeting_policy.png[]
 
 == 🤔 Retour sur investissement ?
 
-* Reunions: ROI?
-* Préparation?
-* Efficacité?
+image::images/{conf}-background.png[background, size=cover]
 
-== Pas de réunions? 
+image::images/meeting-cost.png[width=45%]
+
+== 💡 Pas de réunion chez Alan
 
 image::images/{conf}-background.png[background, size=cover]
 
+👋 Hello Github Issue/Discussion
 
 https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
@@ -165,10 +182,31 @@ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
 image::images/{conf}-background.png[background, size=cover]
 
-
 * Issue
 * Proposal, Timeline, Ping participants 
 * Maitrise du temps
+
+== Exemple: Template
+
+image::images/{conf}-background.png[background, size=cover]
+
+
+== Retour d'expérience
+
+* Meilleur organisation du temps: pas d'interruptions
+* Qualité de la réfléxion
+* Transparence totale
+
+== 👫 Pas de réunions mais...
+
+* des 1-1s
+* des sessions de pair-programming
+* des événements d'équipes
+
+== Après la décision, la documentation
+
+* Github Issues 👉 context des décisions
+* Documentation de la vérité du moment
 
 == Outils : Notion
 
@@ -176,6 +214,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 * Source de vérité 
 * Tout est publique
+
 
 == 🚀 Autonomie
 
@@ -203,7 +242,6 @@ image::images/{conf}-background.png[background, size=cover]
 * Linter
 * Boring technologie
 
-
 == Bénéfices
 
 image::images/{conf}-background.png[background, size=cover]
@@ -212,14 +250,19 @@ image::images/{conf}-background.png[background, size=cover]
 * Responsabilité 
 * Implication
 
+== Pour résumer
+
+* Communication publique et écrite
+* Process de décision asynchrone et écrit
+* Autonomie des équipes
 
 == Disclaimer
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Pas pour tout le monde
-* Besoin d'initiatives pour construire un lien sociale
-
+* Très lié à la culture d'entreprise
+* Demande un engagement personnel
+* Besoin d'initiative sociale
 
 == Merci 🙏
 
