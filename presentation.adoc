@@ -91,9 +91,10 @@ image::images/{conf}-background.png[background, size=cover]
 * ✍️ Tout est écrit
 * 🗣️ Tout est publique
 
-== Outil: Slack public
+== 📣 Outil: Slack
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 * Pas de channel privé
 * Pas de message privé
@@ -105,6 +106,7 @@ image::images/{conf}-background.png[background, size=cover]
 * 👮‍♀️ Règles de nommage `#crew_XXX`, `#team_XXX`, `#announcement`
 * 🧵 Utilisation des threads 
 
+
 == Outil: Slack formaté
 
 image::images/{conf}-background.png[background, size=cover]
@@ -115,6 +117,7 @@ image::images/{conf}-background.png[background, size=cover]
 == Exemples: Daily 
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 
 TODO
@@ -122,6 +125,7 @@ TODO
 == Exemples: HPFO 
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 
 TODO
@@ -129,13 +133,7 @@ TODO
 == Exemples: Thread pour soi-même
 
 image::images/{conf}-background.png[background, size=cover]
-
-
-TODO
-
-== Exemples: Après 1-1
-
-image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 
 TODO
@@ -143,6 +141,7 @@ TODO
 == Exemples: #team_retro
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 
 TODO
@@ -150,6 +149,7 @@ TODO
 == Exemples: #team_praise 
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
 
 
 TODO
@@ -173,29 +173,44 @@ image::images/meeting-cost.png[width=45%]
 == 💡 Pas de réunion chez Alan
 
 image::images/{conf}-background.png[background, size=cover]
+image:images/github.png[float="right"]
 
 👋 Hello Github Issue/Discussion
 
-https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
+👉 https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
-== Outil : Github 
+== Comment ça marche ?
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Issue
-* Proposal, Timeline, Ping participants 
-* Maitrise du temps
+1. 🤔 J'explique pourquoi 
+2. 📖 Je décris le context et la timeline
+3. 💡 Je présente ma ou mes propositions
+4. 🔔 Je ping mes collègues
+5. 🥹 J'attends les contributions
+6. 👍 Je prends en compte les remarques (ou pas)
+7. 👑 JE conclue en actant une décision
 
 == Exemple: Template
 
 image::images/{conf}-background.png[background, size=cover]
 
+* Proposal, Timeline, Ping participants 
+
+== 🤪 Tout décision peut devenir une issue
+
+* Conception fonctionnelle / technique
+* Planning
+* Retro
+* Gestion d'une absence
+* Offsite ... 
 
 == Retour d'expérience
 
-* Meilleur organisation du temps: pas d'interruptions
-* Qualité de la réfléxion
-* Transparence totale
+* 💪 Apprendre à ouvrir une issue
+* 🤩 Qualité de la réfléxion
+* ⏳ Meilleur organisation du temps
+* 👀 Transparence totale
 
 == 👫 Pas de réunions mais...
 
@@ -203,18 +218,18 @@ image::images/{conf}-background.png[background, size=cover]
 * des sessions de pair-programming
 * des événements d'équipes
 
-== Après la décision, la documentation
+== Après la décision, on documente
 
-* Github Issues 👉 context des décisions
-* Documentation de la vérité du moment
+* Github Issues 👉 contexte des décisions
+* Notion 👉 Documentation de la _vérité du moment_
+
+image::images/notion.png[]
 
 == Outils : Notion
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Source de vérité 
-* Tout est publique
-
+image:images/alan-notion.png[width=60%]
 
 == 🚀 Autonomie
 
@@ -262,7 +277,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 * Très lié à la culture d'entreprise
 * Demande un engagement personnel
-* Besoin d'initiative sociale
+* Besoin d'initiative pour le lien social
 
 == Merci 🙏
 
