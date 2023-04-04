@@ -80,16 +80,15 @@ image::images/communication.png[]
 image::images/{conf}-background.png[background, size=cover]
 
 * 🤝 Transmission de l'information 
-* 🧑‍💻 Flexibilité et autonomie
-* ⁉️ Gestion des notifications 
-* 🙉 Context switching
+* 🧑‍💻 Visibilté sur le travail en cours
+* 🎯 Alignement sur la stratégie
 
 == 💚 Communication chez Alan
 
 image::images/{conf}-background.png[background, size=cover]
 
 * ✍️ Tout est écrit
-* 🗣️ Tout est publique
+* 🗣️ Tout est publique (en interne)
 
 == 📣 Outil: Slack
 
@@ -106,7 +105,6 @@ image::images/{conf}-background.png[background, size=cover]
 * 👮‍♀️ Règles de nommage `#crew_XXX`, `#team_XXX`, `#announcement`
 * 🧵 Utilisation des threads 
 
-
 == Outil: Slack formaté
 
 image::images/{conf}-background.png[background, size=cover]
@@ -114,7 +112,7 @@ image::images/{conf}-background.png[background, size=cover]
 * 📖 Format des messages: Titre, Contexte, Questions, Actions
 * 🔔 Ping des bonnes personnes
 
-== Exemples: Daily 
+== Exemple: Daily 
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
@@ -122,7 +120,7 @@ image:images/slack.png[float="right"]
 
 TODO
 
-== Exemples: HPFO 
+== Exemple: HPFO 
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
@@ -130,7 +128,7 @@ image:images/slack.png[float="right"]
 
 TODO
 
-== Exemples: Thread pour soi-même
+== Exemple: Thread pour soi-même
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
@@ -138,7 +136,7 @@ image:images/slack.png[float="right"]
 
 TODO
 
-== Exemples: #team_retro
+== Exemple: #team_retro
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
@@ -237,41 +235,82 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/autonomie.png[width=60%]
 
-== 🕳️🪜 The Pit of Success
-
-* Documentation
-* Pit of success
-
-== Automation Slack
+== 🤔 Enjeux
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Bot pour le planning/welcome OnCall
-* Bot pour tâche récurrente
+* 🤝 Auto-formation
+* 🧑‍💻 Cohérence 
+* ⏱️ Gestion du temps
+* 🧐 Chercher vs demander de l'aide
 
-== Outils : Code
+== 🕳️🪜 Falling into The Pit of Success
+
+* Vous empêcher de faire les mauvais choix
+* Vous aider à faire les bons choix
+
+https://medium.com/alan/falling-into-the-pit-of-success-726dda873fae
+
+== 🪝 Outils: Pre-commit hooks
 
 image::images/{conf}-background.png[background, size=cover]
 
-* DX
-* Linter
-* Boring technologie
+* Formatage du code
+* Vérification de la branche courante
+* Linter pour vérifier les bonnes pratiques (💡 si pas respecté, lien vers la documentation)
 
-== Bénéfices
+== 🧪 Outils: Tests unitaires
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Flexible work
-* Responsabilité 
-* Implication
+* pour vérifier un fichier de configuration
+* pour remplacer certains TODOs
+* pour s'assurer du respect d'un design d'architecture
+
+== 🤩 Developper Experience
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/expo.png[]
+
+== 🤖 Automation 
+
+* Automatiser les tâches répétitives
+* Guider et uniformiser les processus
+
+== Outils: Slack Bot 
+
+image::images/{conf}-background.png[background, size=cover]
+
+* TODO pour le planning/welcome OnCall
+
+== Outils: Slack Bot
+
+image::images/{conf}-background.png[background, size=cover]
+
+* TODO pour tâche récurrente
 
 == Pour résumer
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/conclusion.png[]
+
+== 🤓 Fondations
 
 * Communication publique et écrite
 * Process de décision asynchrone et écrit
 * Autonomie des équipes
 
-== Disclaimer
+== 🏆 Ce qu'on y gagne
+
+image::images/{conf}-background.png[background, size=cover]
+
+* Efficacité à l'échelle
+* Travail flexible
+* Responsabilité
+
+== 👀 Point d'attention
 
 image::images/{conf}-background.png[background, size=cover]
 
