@@ -177,7 +177,7 @@ image:images/github.png[float="right"]
 
 👋 Hello Github Issue/Discussion
 
-👉 https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
+➡️ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
 == Comment ça marche ?
 
@@ -261,7 +261,7 @@ image::images/{conf}-background.png[background, size=cover]
 * Vous empêcher de faire les mauvais choix
 * Vous aider à faire les bons choix
 
-https://medium.com/alan/falling-into-the-pit-of-success-726dda873fae
+➡️ https://medium.com/alan/falling-into-the-pit-of-success-726dda873fae
 
 == 🪝 Outils: Pre-commit hooks
 
@@ -338,4 +338,8 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-https://binout.github.io/async-remote-work/
+👨‍🏫 https://binout.github.io/async-remote-work/
+
+image::images/marmot.png[width=20%]
+
+➡️ https://alan.com/careers
