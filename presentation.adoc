@@ -80,7 +80,7 @@ image::images/communication.png[]
 image::images/{conf}-background.png[background, size=cover]
 
 * 🤝 Transmission de l'information 
-* 🧑‍💻 Visibilté sur le travail en cours
+* 🧑‍💻 Visibilité sur le travail en cours
 * 🎯 Alignement sur la stratégie
 
 == 💚 Communication chez Alan
@@ -118,31 +118,42 @@ image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
 
 
-TODO
+image::images/slack-daily.png[]
+
+== Exemple: Daily 
+
+image::images/{conf}-background.png[background, size=cover]
+image:images/slack.png[float="right"]
+
+
+image::images/slack-daily-response.png[]
+
 
 == Exemple: HPFO 
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
 
+☀️**H**ighlights / 🎯**P**rogress 
+🔥 **F**ires /  🚀**O**bjectives
 
-TODO
+📣 #org_alaner-hpfo
 
-== Exemple: Thread pour soi-même
+image::images/slack-hpfo.png[]
+
+== Exemple: Thread pour soi
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
 
-
-TODO
+image::images/slack-thread.png[]
 
 == Exemple: #team_retro
 
 image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
 
-
-TODO
+image::images/slack-retro.png[]
 
 == Exemples: #team_praise 
 
@@ -150,7 +161,7 @@ image::images/{conf}-background.png[background, size=cover]
 image:images/slack.png[float="right"]
 
 
-TODO
+image::images/slack-praise.png[]
 
 == 🧑‍⚖️ Processus de décision 
 
@@ -195,7 +206,19 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Proposal, Timeline, Ping participants 
+image::images/github-template-1.png[width=70%]
+
+== Exemple: Template
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/github-template-2.png[width=70%]
+
+== Exemple: Discussion
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/github-issue.png[width=70%]
 
 == 🤪 Tout décision peut devenir une issue
 
@@ -296,13 +319,16 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* TODO pour le planning/welcome OnCall
+image::images/oncall-1.png[]
+
+image::images/oncall-2.png[]
+
 
 == Outils: Slack Bot
 
 image::images/{conf}-background.png[background, size=cover]
 
-* TODO pour tâche récurrente
+image::images/automation.png[]
 
 == Pour résumer
 
