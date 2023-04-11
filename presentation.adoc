@@ -296,16 +296,16 @@ image::images/{conf}-background.png[background, size=cover]
 image::images/{conf}-background.png[background, size=cover]
 
 * Formatage du code
-* Vérification de la branche courante
 * Linter pour vérifier les bonnes pratiques (💡 si pas respecté, lien vers la documentation)
+* Vérification de sécurité (👮‍♀️ pas de secrets commités)
 
 == 🧪 Outils: Tests unitaires
 
 image::images/{conf}-background.png[background, size=cover]
 
-* pour vérifier un fichier de configuration
-* pour remplacer certains TODOs
+* pour vérifier le format fichier de configuration
 * pour s'assurer du respect d'un design d'architecture
+* pour remplacer certains TODOs
 
 == 🤩 Developper Experience
 
@@ -372,7 +372,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 * Très lié à la culture d'entreprise
 * Demande un engagement personnel
-* Besoin d'initiative pour le lien social
+* Besoin d'initiatives pour le lien social
 
 == Merci 🙏
 
