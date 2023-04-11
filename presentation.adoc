@@ -21,7 +21,7 @@ revealDiv.appendChild(footer);
 } );
 </script>
 <div id="custom-footer" class="footer">
-@binout
+#devoxxfr2023 #alan
 </div>
 ++++
 
@@ -43,21 +43,29 @@ image:images/Alan-1.png[width=25%]
 image:images/Alan-Mascot.png[width=30%]
 image:images/Alan-2.png[width=25%]
 
+
 == 🌱 Culture d'entreprise Alan
 
 image::images/{conf}-background.png[background, size=cover]
 
 ✍️ Culture de l'écrit
 
-👑 Responsabilité partagée
+🫥 Transparence radicale
 
 🤩 Pas de réunions, pas de managers
 
-🚀 Autonomie
+👑 Responsabilité distribuée
 
 🧑‍💻 Travail flexible 
 
 ➡️ https://medium.com/alan
+
+== 🧸 Twitter pour gagner
+
+#devoxxfr2023 #alan
+
+image:images/Marmot.jpg[width=50%]
+
 
 == 🤖 Télétravail Asynchrone par ChatGPT
 
@@ -372,6 +380,6 @@ image::images/{conf}-background.png[background, size=cover]
 
 👨‍🏫 https://binout.github.io/async-remote-work/
 
-image::images/marmot.png[width=20%]
+image::images/marmot.png[width=25%]
 
 ➡️ https://alan.com/careers
