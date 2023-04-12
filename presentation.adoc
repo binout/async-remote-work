@@ -228,7 +228,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/github-issue.png[width=70%]
 
-== 🤪 Tout décision peut devenir une issue
+== 🤪 Tout décision peut devenir une discussion
 
 image::images/{conf}-background.png[background, size=cover]
 
@@ -242,7 +242,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* 💪 Apprendre à ouvrir une issue
+* 💪 Apprendre à ouvrir une discussion
 * 🤩 Qualité de la réfléxion
 * ⏳ Meilleur organisation du temps
 * 👀 Transparence totale
