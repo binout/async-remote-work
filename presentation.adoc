@@ -203,7 +203,7 @@ image:images/github.png[float="right"]
 image::images/{conf}-background.png[background, size=cover]
 
 1. 🤔 J'explique pourquoi 
-2. 📖 Je décris le context et la timeline
+2. 📖 Je décris le contexte et la timeline
 3. 💡 Je présente ma ou mes propositions
 4. 🔔 Je ping mes collègues
 5. 🥹 J'attends les contributions
@@ -358,7 +358,7 @@ image::images/conclusion.png[]
 image::images/{conf}-background.png[background, size=cover]
 
 * Communication publique et écrite
-* Process de décision asynchrone et écrit
+* Processus de décision asynchrone et écrit
 * Autonomie des équipes
 
 == 🏆 Ce qu'on y gagne
