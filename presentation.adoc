@@ -369,7 +369,7 @@ image::images/{conf}-background.png[background, size=cover]
 * Travail flexible
 * Responsabilité
 
-== 👀 Point d'attention
+== 👀 Points d'attention
 
 image::images/{conf}-background.png[background, size=cover]
 
