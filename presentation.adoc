@@ -90,6 +90,8 @@ image::images/{conf}-background.png[background, size=cover]
 * 🤝 Transmission de l'information 
 * 🧑‍💻 Collaboration
 * 🎯 Alignement sur la stratégie
+* 🤔 Gestion des notifications
+
 
 == 💜 Communication chez Alan
 
@@ -97,6 +99,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 * ✍️ Tout est écrit
 * 🗣️ Tout est publique (en interne)
+* 🧑‍🏫 Tout le monde est formé
 
 == 📣 Outil: Slack
 
@@ -191,7 +194,7 @@ image::images/meeting-cost.png[width=45%]
 image::images/{conf}-background.png[background, size=cover]
 image:images/github.png[float="right"]
 
-👋 Hello Github Issue/Discussion
+👋 Hello Github ~Issue~ Discussion
 
 ➡️ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
@@ -232,7 +235,7 @@ image::images/{conf}-background.png[background, size=cover]
 * Conception fonctionnelle / technique
 * Planning
 * Retro
-* Gestion d'une absence
+* Gestion d'une absence longue durée
 * Offsite ... 
 
 == Retour d'expérience
@@ -278,7 +281,7 @@ image::images/autonomie.png[width=60%]
 image::images/{conf}-background.png[background, size=cover]
 
 * 🤝 Auto-formation
-* 🧑‍💻 Cohérence 
+* 🧑‍💻 Cohérence globale
 * ⏱️ Gestion du temps
 * 🧐 Chercher vs demander de l'aide
 
@@ -303,7 +306,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* pour vérifier le format fichier de configuration
+* pour vérifier le bon format d'un fichier de configuration
 * pour s'assurer du respect d'un design d'architecture
 * pour remplacer certains TODOs
 
