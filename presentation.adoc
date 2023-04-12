@@ -383,6 +383,6 @@ image::images/{conf}-background.png[background, size=cover]
 
 👨‍🏫 https://binout.github.io/async-remote-work/
 
-image::images/marmot.png[width=25%]
+image::images/marmot.png[width=20%]
 
-➡️ https://alan.com/careers
+**🚀 Intéressé ?  ➡️ https://alan.com/careers**
