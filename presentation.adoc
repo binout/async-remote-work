@@ -194,7 +194,7 @@ image::images/meeting-cost.png[width=45%]
 image::images/{conf}-background.png[background, size=cover]
 image:images/github.png[float="right"]
 
-👋 Hello Github ~Issue~ Discussion
+👋 Hello Github +++<s>Issue</s>+++ Discussion
 
 ➡️ https://blog.alan.com/bien-etre-au-travail/no-meeting-policy
 
@@ -259,7 +259,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Github Issues 👉 contexte des décisions
+* Github Discussions 👉 contexte des décisions
 * Notion 👉 Documentation de la _vérité du moment_
 
 image::images/notion.png[]
