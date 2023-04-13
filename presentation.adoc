@@ -208,7 +208,7 @@ image::images/{conf}-background.png[background, size=cover]
 4. 🔔 Je ping mes collègues
 5. 🥹 J'attends les contributions
 6. 👍 Je prends en compte les remarques (ou pas)
-7. 👑 JE conclue en actant une décision
+7. 👑 Je conclus en actant une décision
 
 == Exemple: Template
 
